@@ -28,7 +28,9 @@ class App extends Component {
       navigationBarTitleText: 'WeChat',
       navigationBarTextStyle: 'black'
     },
-    cloud: true
+    cloud: true,
+    sitemapLocation: "sitemap.json"
+
   }
 
   componentDidMount () {

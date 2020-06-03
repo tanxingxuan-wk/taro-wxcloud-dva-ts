@@ -31,6 +31,7 @@ export default class Index extends Component {
     return (
       <View className='index'>
         <Login/>
+        <View>123123</View>
       </View>
     )
   }
